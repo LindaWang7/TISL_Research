@@ -39,7 +39,8 @@ def extract_wall_txt(input_path, output_path):
             if not vertex_line_is_found:
                 vertex_line_num = i
                 vertex_line_is_found = True
-            relevant_list = [503, 504, 505, 506, 507, 188, 189]
+            #add in ObjectID we want to keep
+            relevant_list = [503]
             if (int(row_list[7]) not in relevant_list):
             #if (int(row_list[7]) < 503) or (int(row_list[7]) > 507):
                 remove_list.append(i)
@@ -116,6 +117,8 @@ def extract_wall_txt(input_path, output_path):
 
 
 if __name__ == '__main__':
-    input_path = '/home/lin/Documents/Others/ExtractWall/labels.instances.annotated.v2.ply'
-    output_path = '/home/lin/Documents/Others/ExtractWall/wall.ply'
+    # input_path = '/home/lin/Documents/Others/ExtractWall/labels.instances.annotated.v2.ply'
+    # output_path = '/home/lin/Documents/Others/ExtractWall/wall.ply'
+    input_path = 'labels.instances.annotated.v2.ply'
+    output_path = 'wall.ply'
     extract_wall_txt(input_path, output_path)
