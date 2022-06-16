@@ -19,8 +19,9 @@ def printing_format(id, centroid, lable):
     print("Label: {}".format(lable))
 
 def write_object_info(name, id, centroid, lable):
-    #file_name = "all_objects/"+name + "_object.txt"
-    file_name = "no_sequence/" +name +"/" + name+ "_object.txt"
+    #id, centroidx, centroidy, centroidz, label
+    file_name = "all_objects_v2/"+name + "_object.txt"
+    #file_name = "no_sequence/" +name +"/" + name+ "_object.txt"
 
     #Format Object ID, Centoids, Label
     #print("the name: "+ file_name)

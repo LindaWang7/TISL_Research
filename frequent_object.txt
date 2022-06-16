@@ -1,0 +1,57 @@
+kitchen cabinet
+box
+sink
+shelf
+heater
+kitchen counter
+stove
+blinds
+commode
+lamp
+radiator
+clutter
+towel
+mirror
+plant
+toilet
+object
+door
+cabinet
+table
+chair
+sofa
+coffee table
+stool
+picture
+trash can
+item
+bag
+vase
+pillow
+monitor
+pc
+doorframe
+backpack
+armchair
+desk
+light
+counter
+curtain
+bed
+rack
+tv stand
+tv
+frame
+blanket
+bath cabinet
+basket
+clothes
+bench
+cushion
+decoration
+bucket
+nightstand
+couch
+stand
+wardrobe
+shoes

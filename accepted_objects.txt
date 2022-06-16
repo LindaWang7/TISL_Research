@@ -1,0 +1,8 @@
+chair
+table
+bed
+carpet
+cabinet
+desk
+furniture
+lamp
