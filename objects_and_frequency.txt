@@ -1,0 +1,92 @@
+kitchen cabinet,387
+box,1583
+sink,387
+shelf,1478
+microwave,76
+heater,333
+kitchen counter,145
+bottle,61
+stove,101
+oven,89
+blinds,157
+commode,289
+refrigerator,82
+windowsill,253
+kettle,50
+bin,60
+sack,58
+kitchen appliance,96
+pack,54
+lamp,829
+radiator,166
+clutter,166
+towel,348
+mirror,134
+plant,1029
+toilet,160
+toilet paper,70
+door,910
+table,892
+chair,2312
+sofa,252
+coffee table,178
+stool,327
+picture,606
+clock,60
+trash can,326
+item,836
+bag,476
+vase,109
+pillow,1638
+plate,61
+monitor,274
+pc,102
+telephone,58
+backpack,118
+armchair,391
+desk,278
+bicycle,61
+light,412
+printer,55
+laptop,60
+showcase,74
+counter,111
+curtain,800
+bed,245
+rack,114
+tv stand,111
+tv,218
+frame,112
+blanket,329
+bath cabinet,158
+bathtub,59
+clothes dryer,72
+basket,241
+clothes,397
+bench,215
+cushion,278
+decoration,134
+bucket,142
+nightstand,167
+couch,120
+side table,86
+book,58
+stand,132
+toilet brush,53
+couch table,71
+wardrobe,266
+dining chair,65
+ottoman,74
+washing machine,89
+suitcase,62
+window frame,55
+shoes,104
+pipe,54
+pillar,62
+cupboard,62
+whiteboard,55
+shower,51
+puf,61
+desk chair,50
+shower curtain,53
+boxes,53

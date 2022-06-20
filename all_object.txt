@@ -1,527 +1,527 @@
-fan
-jar
-wood box
-tent
-audio system
-floor /other room
-shower door
-board
-drawers
-plants
-newspaper
-elliptical trainer
-bathrobe
-oven glove
-bottle
-stairs
-dumbbells
-magazine rack
-player
-shower curtain
-photo frame
-spice
-handbag
-flag
-side table
-coffee
-treadmill
-case
-screen
-armor
-dishwasher
-star
-boots
-pipe
-pocket
-bed table
-photos
-watering can
-crib
-wall /other room
-painting
-shelves
-cover
-candlestick
-bbq
-barstool
-clock
-carriage
-xbox
-shower floor
-item
-shelf clutter
-fabric
-jacket
-kitchen object
-festoon
-elevator
-milk
-changing table
-stair
-window
-tv stand
-slanted wall
-baby seat
-pile of papers
-stepladder
-cleanser
-toy
-folding chair
-door
-candle
-packs
-shelf
-bathtub
-podest
-sidetable
-kitchen cabinet
-dining chair
-loft bed
-cutting board
-jug
-locker
-stereo equipment
-paper towel
-things
-cable
-balcony door
-recycle bin
-armoire
-mask
-rolling pin
-snowboard
-bread
-bicycle
-wall plants
-firewood box
-dresser
-statuette
-couch table
-basin
-package
-garbage bin
-switch
-brochure
-door /other room
-hand washer
-lamp
-table
-body loofah
-object
-spices
-sofa
-backpack
-teapot
-medical device
-bench
-squeezer
-urinal
-wardrobe door
-heater
-shoe shelf
-ladder
-mattress
-cushions stack
-kitchen appliance
-cooking pot
-tissue pack
-buggy
-window clutter
-chandelier
-magazine stand
-barrel
-teddy bear
-sugar packs
-towel basket
-objects
-bin
-glass wall
 plant
-keyboard
-basket
-blackboard
-boiler
-kitchen counter
-bowl
-typewriter
-pile of folders
-child clothes
-books
-shower wall
-storage container
-soap
-counter
-cart
-toy house
-printer
-floor mat
-price tag
-shoes
-mirror
-handle
-sink counter
-toilet brush
-magazine
-stuffed animal
-umbrella
-corner bench
-commode
-boxes
-hangers
-bath robe
-cleaning agent
-plank
-poster
-vase
-nightstand
-tree decoration
-washing powder
-pc
-figure
-suitcase
-stick
-pile of books
-notebooks
-shoe rack
-lounger
-shoe box
-cleaning brush
-dishdrainer
-napkins
-hanging cabinet
-coffee maker
-salad
-mop
-pile of wires
-toilet paper dispenser
-dress
-iron
-sign
-desk
-picture
-puf
-console
-bag
-vacuum
-fruit
-floor lamp
-bucket
-sack
-wall rack
 extractor fan
-kitchen rack
-beam
-bath cabinet
-rocking chair
-platform
-child chair
-planter
-bottles
-kids bicycle
-shoe commode
-humidifier
-flipchart
-trash bin
-bulletin board
-clothes
-ventilator
-railing
-ukulele
-cupboard
-roof
-drinks
-footstool
-bath rack
-furniture
-kitchen sofa
-whiteboard
-spots
-kitchen playset
-utensils
-drawer
-instrument
-stereo
-garden umbrella
-bedside table
-cups
-pillow
-radiator
-kitchen towel
-toaster
-ironing board
-guitar
-closet door
-rolling cart
-sponge
-storage
-luggage
-drain pipe
-stove
-paper
-soap dish
-brush
-air conditioner
-trash can
-hood
-sideboard
-pooh
-blanket
-table lamp
-exit sign
-baby toys
-bookshelf
-hand dryer
-dining table
-book
-washbasin
-ottoman
-toilet paper holder
-shelf unit
-stool
-grass
-blinds
-sofa chair
-hair dryer
-chair
-pavement
-washing machine
-paper holder
-juicer
-light
-salt
-multicooker
-storage bin
-cabinet
-organizer
-paper towel dispenser
-tv table
-garbage
-oven
-newspaper rack
-couch
-storage box
-kids chair
-discs
-toiletry
-plate
-piano
-clothes rack
-sewing machine
-wardrobe
-flush
-meter
-tv
-beverage crate
-water
-storage unit
-cap
-stand
-sink
-tool wall
-laptop
-ceiling light
-linen
-fireplace
 glass
-baby bed
-tire
-cycling trainer
-ball
-jalousie
-dish
-cushion
-drawers rack
-sidecouch
-projector
-kids rocking chair
-bathroom items
-children's table
-cable rack
-shirt
-shelf of caps
-cube
-wall
-mandarins
-paper sign
-kids table
-ceiling
-decoration
-weigths
-breadboard
-windows
-pot
-t-shirt
-cut board
-frame
-clutter
-tablet
-hanger
-folded beach chairs
-dining set
-canopy
-table soccer
-kitchen item
-device
-microwave
-hygiene products
-towels
-plates
-chairs
-documents
-exhaust hood
-rug
-foosball table
-showcase
-knife box
-shower
-chest
-window frame
-trashcan
-dishes
-kitchen hood
-speaker
-washing basket
-pile
-column
-scarf
-bath counter
-fruits
-tennis raquet
-handhold
-doorframe /other room
-kitchen sink
-bidet
-handrail
-partition
-paper cutter
-helmet
-beanbag
-rag
-tray
-bean bag
-closet
-drum
-candles
-sheets
-doll
-paper stack
-pepper
-flowers
-office table
-scale
-baby changing unit
-kids stool
-fridge
-calendar
-pack
-tree
-sofa couch
-pictures
-dressing table
-menu
-tube
-crate
-radio
-stroller
-drying machine
-pillar
-clothes dryer
-ventilation
-rolled carpet
-seat pad
-roll
-telephone
-box
-windowsill
-laundry basket
-ceiling /other room
-soap dispenser
-baby gym
-drying rack
-monitor
-lockers
-desk chair
-coffee machine
-shoe
-can
-mannequin
-pan
-items
-armchair
-notebook
-towel
-vacuum cleaner
-magazine files
-toilet paper
-aquarium
-pin board wall
-headboard
-fence
-computer
-computer desk
 papers
-puppet
-wood
-letter
+tablet
+backpack
+desk
+t-shirt
+partition
+towel basket
 dog
-rubbish bin
-bike
-upholstered wall
-diapers
-weights
-gymnastic ball
-window board
 curtain rail
-dispenser
-carpet
-pile of bottles
-fire extinguisher
+humidifier
+garbage bin
+dining set
+pocket
+ceiling
+baby gym
+hanging cabinet
+decoration
+bowl
+squeezer
+boots
+changing table
+window clutter
+urinal
+drum
+price tag
+pictures
+cloth
+discs
+fruit
+office table
+instrument
+sofa
+bed table
+window frame
+baby changing unit
+toilet paper
+radiator
+kettle
+stair
+counter
+lounger
+file cabinet
+stairs
+can
+rug
+shelf unit
+towels
+jar
+aquarium
+socket
+painting
+console
+door
+pan
+teddy bear
+coffee machine
+body loofah
+plate
+wood
+cleaning agent
 water heater
-generator
-seat
-curtain
-office chair
+toy house
+couch
+foosball table
+dressing table
+canopy
+headboard
+cushions stack
+dishwasher
+carpet
+cover
+vase
+child chair
+fruit plate
+wood box
+ball
+picture
+balcony door
+tool wall
+hood
+switch
+watering can
+pepper
+beam
+rocking chair
+kitchen sink
+shirt
+armchair
+projector
+corner bench
+sack
+bbq
+kitchen rack
+sugar packs
+pile of bottles
+jug
+armoire
+package
+exhaust hood
+suitcase
+table lamp
+spots
+rowing machine
+boxes
+apron
+flipchart
+coat
+sewing machine
+organizer
+hangers
+rail
+toilet paper holder
+cupboard
+floor
+fence
+wardrobe door
+shelf clutter
+microwave
+paper towel dispenser
+washing powder
+photo frame
+washing basket
+elevator
+ramp
 flower
 cradle
-kettle
-apron
-pet bed
-food
-shower gel
-rack
-balcony
-folder
-container
-baby changing table
-fruit plate
-ramp
-shampoo
-wall frame
-socket
-sauce boat
-pile of candles
-dish dryer
-rowing machine
-rail
-bed
-bar
-file cabinet
-darts
+magazine stand
+printer
+magazine
+sidecouch
+toaster
+baby bed
+window
+umbrella
+things
+garden umbrella
+bench
+cleaning brush
+dishes
+drawer
+bath cabinet
+beverage crate
+luggage
+wall rack
+shower wall
+cube
+chandelier
 refrigerator
+firewood box
+wall plants
+piano
+ottoman
+ceiling /other room
+mask
+flush
+flag
 cup
-pile of pillows
-door mat
-toilet
-statue
-coat
+cap
 beautician
-machine
-floor
-round table
-cloth
+fan
+shower floor
+telephone
+dining table
+knife box
+photos
+tv table
+light
+heater
+board
+pooh
+doorframe /other room
+child clothes
+kids stool
+menu
+items
+baby toys
+showcase
+toiletry
+grass
+bin
+sideboard
+ladder
+chair
+cushion
+multicooker
+basin
+lamp
+seat
+pile of papers
+wall
+commode
+star
+cut board
+paper
+paper holder
+kitchen cabinet
+bucket
+closet
+milk
+stand
+sidetable
+dish dryer
+darts
+sink counter
+pin board wall
+window board
+pack
+wardrobe
+puf
+washbasin
+bulletin board
+sponge
+gymnastic ball
+typewriter
+figure
+shower curtain
+pile of books
+cooking pot
+shower door
+chairs
+soap dispenser
+bath rack
+vacuum
+statue
+candles
+stove
+calendar
+pile of pillows
+folding chair
+player
+coffee maker
+toilet brush
+hand washer
+towel
+soap dish
+objects
+treadmill
+sign
+books
+dispenser
+kitchen counter
+kids rocking chair
+platform
+bottle
+couch table
+table
+railing
+tray
+diapers
+tissue pack
+shower
+shoe rack
+cups
+scarf
+pc
+plates
+oven
+packs
+shelf of caps
+hand dryer
+brush
+audio system
+trash bin
+kitchen appliance
+blackboard
+hygiene products
+dresser
+slanted wall
+xbox
+whiteboard
+windows
+mop
+stroller
+pet bed
+spices
+shelves
+wall frame
+nightstand
+clutter
+seat pad
+item
+coffee
+glass wall
+bath counter
+floor /other room
+handhold
+statuette
+stereo
+bath robe
+brochure
+bathtub
 shades
-tile
-coffee table
-bar stool
+jacket
+dress
+plants
+flowers
+washing machine
+tree decoration
+case
 doorframe
+upholstered wall
+pavement
+shampoo
+beanbag
+storage unit
+tv
+candlestick
+barrel
+medical device
+scale
+fridge
+pot
+podest
+frame
+tire
+shower gel
+computer desk
+tree
+drawers rack
+paper sign
+generator
+barstool
+cable rack
+spice
+bottles
+drain pipe
+box
+coffee table
+shoe shelf
+roll
+book
+loft bed
+laptop
+balcony
+fabric
+shoes
+poster
+bathrobe
+rolling cart
+weights
+radio
+keyboard
+elliptical trainer
+toilet paper dispenser
+stepladder
+cycling trainer
+kitchen item
+blanket
+weigths
+fruits
+toy
+device
+stool
+oven glove
+rolling pin
+air conditioner
+drawers
+bag
+shoe box
+planter
+speaker
+lockers
+object
+clothes dryer
+pillar
+table soccer
+salad
+kitchen hood
+kids bicycle
+roof
+stereo equipment
+blinds
+ventilator
+bookshelf
+drying rack
+vacuum cleaner
+handbag
+column
+laundry basket
 hand brush
+bean bag
+pipe
+machine
+food
+door mat
+iron
+salt
+basket
+footstool
+shelf
+clock
+floor lamp
+meter
+tube
+locker
+clothes rack
+notebooks
+storage
+rubbish bin
+napkins
+dish
+ironing board
+crate
+mannequin
+paper towel
+desk chair
+handle
+paper stack
+cable
+crib
+wall /other room
+computer
+storage box
+fireplace
+tennis raquet
+drinks
+kids table
+bike
+cutting board
+guitar
+office chair
+garbage
+helmet
+sauce boat
+kitchen object
+storage bin
+trash can
+documents
+closet door
+monitor
+paper cutter
+handrail
+pile of wires
+boiler
+ceiling light
+cabinet
+pillow
+floor mat
+side table
+exit sign
+folded beach chairs
+furniture
+plank
+rag
+kitchen playset
+bar stool
+screen
+kitchen towel
+hanger
+linen
+baby seat
+shoe
+cleanser
+tv stand
+folder
+newspaper rack
+bed
+kitchen sofa
+dumbbells
+newspaper
+mandarins
+kids chair
+hair dryer
+container
+fire extinguisher
+curtain
+dishdrainer
+stick
+clothes
+trashcan
+pile of candles
+tile
+sink
+door /other room
+sofa chair
+magazine rack
+baby changing table
+bicycle
+cart
+pile of folders
+candle
+doll
+storage container
+stuffed animal
+jalousie
+buggy
+ukulele
+ventilation
+soap
+juicer
+teapot
+recycle bin
+snowboard
+notebook
+breadboard
+tent
+bread
+chest
+rolled carpet
+windowsill
+toilet
+rack
+utensils
+festoon
+sheets
+bathroom items
+bidet
+dining chair
+bar
+pile
+mattress
+water
+shoe commode
+armor
+bedside table
+magazine files
+children's table
+mirror
+drying machine
+carriage
+letter
+round table
+puppet
+sofa couch

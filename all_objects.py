@@ -50,13 +50,22 @@ def create_all_objects_txt():
     #write all_objects
     write_to_txt("all_object.txt", all_objects)
 
+
+def occurance_txt(f_name, dict):
+    with open(f_name, 'w') as f:
+        for key, value in dict.items():
+            f.write('%s,%s\n' % (key, value))
+
+
 def create_frequent_objects_txt():
     # Find occurances of all_objects and store in dict
     occurrences = collections.Counter(occurances_list)
-    # print(occurrences)
+    print(occurrences)
 
     # filter out less frequent objects
-    frquent_occurrences = filter_occurances(occurrences, 100)
+    frquent_occurrences = filter_occurances(occurrences, 50)
+    print(frquent_occurrences)
+    occurance_txt("objects_and_frequency.txt", frquent_occurrences)
     write_to_txt("frequent_object.txt", frquent_occurrences)
 
 def read_excel():
@@ -79,11 +88,14 @@ if __name__ == "__main__":
 
     #match ids
     excel_ids = read_excel()
+    #temp_set = ()
+
     for object in occurances_list:
+        #temp_set.add(object)
         new_id = excel_ids.index(object)
         new_id_frequent_objects.append(object + "," + str(new_id))
 
-    write_to_txt("new_id_frequent_objects.txt", new_id_frequent_objects)
+    #write_to_txt("new_id_frequent_objects.txt", new_id_frequent_objects)
     #print(new_id_frequent_objects)
 
 

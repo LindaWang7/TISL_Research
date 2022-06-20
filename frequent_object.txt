@@ -1,12 +1,26 @@
+wall
+floor
 kitchen cabinet
 box
 sink
 shelf
+microwave
 heater
 kitchen counter
+bottle
 stove
+oven
 blinds
 commode
+refrigerator
+ceiling
+windowsill
+window
+kettle
+bin
+sack
+kitchen appliance
+pack
 lamp
 radiator
 clutter
@@ -14,6 +28,7 @@ towel
 mirror
 plant
 toilet
+toilet paper
 object
 door
 cabinet
@@ -23,18 +38,25 @@ sofa
 coffee table
 stool
 picture
+clock
 trash can
 item
 bag
 vase
 pillow
+plate
 monitor
 pc
+telephone
 doorframe
 backpack
 armchair
 desk
+bicycle
 light
+printer
+laptop
+showcase
 counter
 curtain
 bed
@@ -44,6 +66,8 @@ tv
 frame
 blanket
 bath cabinet
+bathtub
+clothes dryer
 basket
 clothes
 bench
@@ -52,6 +76,26 @@ decoration
 bucket
 nightstand
 couch
+side table
+book
 stand
+toilet brush
+couch table
 wardrobe
+plank
+wall frame
+dining chair
+ottoman
+washing machine
+suitcase
+window frame
 shoes
+pipe
+pillar
+cupboard
+whiteboard
+shower
+puf
+desk chair
+shower curtain
+boxes
